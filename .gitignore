@@ -11,7 +11,7 @@ node_modules
 .yarn-integrity
 
 # build dir
-casaub0n.github.io
+dist
 
 coverage
 
